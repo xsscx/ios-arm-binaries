@@ -2,7 +2,7 @@
 
 These are Binary Files for iOS that I'm using to create a DMG for convenience [cough]
 
-If you read the Privare Post, you know you want this file... its just easier since it workks..
+If you read the Private Post.. this was just easier since it works.
 
 the client is a ftp file and the how to is:
 
