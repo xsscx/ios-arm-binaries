@@ -1,6 +1,6 @@
 # ios-arm-code
 
-These are Binary Files for iOS that I'm using to create a DMG formconvenience [cough]
+These are Binary Files for iOS that I'm using to create a DMG for convenience [cough]
 
 If you read the Privare Post, you know you want this file... its just easier since it workks..
 
