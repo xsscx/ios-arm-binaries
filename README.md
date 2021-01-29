@@ -14,7 +14,9 @@ The other files are for convenience. At some point I hope this Repo will be more
 
 binbag and the other files are for a convenience DMG, hit me up a pull request if you've got interesting source or other stuff to pull in for iOS Research and Reverse Engineering.
 
-Updated on Jan 28, 2021 .. I compiled dd for iOS / arm and signed with with my Developer ID
+Updated on Jan 28, 2021 .. I'm in the process of cross compiling some basic applications for iOS / arm and signed with with my Developer ID
+
+I'm posting them here to the Repo as I get time over the next few weeks..
 
 
 
