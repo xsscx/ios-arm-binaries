@@ -1,4 +1,4 @@
-# ios-arm-code
+# ios-arm-binaries
 
 These are Binary Files for iOS that I'm using to create a DMG for convenience [cough]
 
