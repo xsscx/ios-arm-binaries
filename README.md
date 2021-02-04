@@ -17,3 +17,5 @@ I'm in the process of cross compiling some basic applications for iOS / arm and 
 
 Thee files are meant for just a few people.. if you've landed here and don't have a clear understanding on the background, probably best not to move along.. nothing to see here...
 
+I recently added reproduction cases from google project zero. I've only compiled the binaries and signed them, unmodified, original source. 
+
