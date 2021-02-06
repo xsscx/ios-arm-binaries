@@ -15,7 +15,7 @@ binbag and the other files are for a convenience DMG, hit me up a pull request i
 
 I'm in the process of cross compiling some basic applications for iOS / arm and signed with with my Developer ID
 
-Thee files are meant for just a few people.. if you've landed here and don't have a clear understanding on the background, probably best not to move along.. nothing to see here...
+Thee files are meant for just a few people.. if you've landed here and don't have a clear understanding on the background, probably best to move along.. nothing to see here...
 
 I recently added reproduction cases from google project zero. I've only compiled the binaries and signed them, unmodified, original source. 
 
