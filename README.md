@@ -3,7 +3,7 @@
 These are Binary Files for iOS that I'm using to create a DMG for convenience [cough]
 
 Notes on whats here for what isn't obvious.. 
-the client is a tftp client binary compiled by myself for iOS and arm7 and the how to use is:
+the client is a tftp client binary compiled by myself for iOS and arm7e and the how to use is:
 
 usage: ./client [-p port] [-h hostname] [-f filename]
 
