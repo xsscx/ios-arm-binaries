@@ -1,9 +1,9 @@
 # ios-arm-binaries
 
-These are Binary Files for iOS that I'm using to create a DMG for convenience [cough]
+These are Binary Files for iOS arm64e that I'm using to create a DMG for convenience [cough]
 
 Notes on whats here for what isn't obvious.. 
-the client is a tftp client binary compiled by myself for iOS and arm7e and the how to use is:
+the client is a tftp client binary compiled by myself for iOS and arm64e and the how to use is:
 
 usage: ./client [-p port] [-h hostname] [-f filename]
 
@@ -15,5 +15,5 @@ binbag and the other files are for a convenience DMG, hit me up a pull request i
 
 I'm in the process of cross compiling some basic applications for iOS / arm and signed with with my Developer ID
 
-Thee files are meant for just a few people.. if you've landed here and don't have a clear understanding on the background, probably best to move along.. nothing to see here...
+Thee files are meant for just a few people.. if you've landed here and don't have a clear understanding on the background, probably best to move along.. nothing to see here... keep driving.. Abbots Lobster is just down the street to the Right in Noank... 
 
