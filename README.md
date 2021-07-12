@@ -1,3 +1,5 @@
+## UPDATED: All the action is at https://github.com/xsscx/srd
+
 # ios-arm-binaries
 
 These are Binary Files for iOS arm64e that I'm using to create a DMG for convenience [cough]
